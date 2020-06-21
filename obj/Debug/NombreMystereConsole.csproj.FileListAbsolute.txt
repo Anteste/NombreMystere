@@ -1,0 +1,7 @@
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\bin\Debug\NombreMystere.exe.config
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\bin\Debug\NombreMystere.exe
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\bin\Debug\NombreMystere.pdb
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\obj\Debug\NombreMystereConsole.csproj.CoreCompileInputs.cache
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\obj\Debug\NombreMystere.exe
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\obj\Debug\NombreMystere.pdb
+C:\Users\Anteste\source\repos\GettingStarted\NombreMystere\obj\Debug\NombreMystereConsole.csprojAssemblyReference.cache
