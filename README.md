@@ -1,5 +1,4 @@
-# NombreMystereWPF
-
+# NombreMystere
 ## Installation
 Vous pouvez télécharger le fichier .exe en ouvrant le fichier /bin/Debug/ et lancer le .exe directement sur votre ordinateur.
 
